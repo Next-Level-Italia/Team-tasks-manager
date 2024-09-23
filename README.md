@@ -1,2 +1,2 @@
-# Team-tasks-manager
+# TTM-docs
 Team Tasks Manager App Documentation
