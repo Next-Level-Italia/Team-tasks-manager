@@ -9,4 +9,7 @@ Team Tasks Manager is the checklist designed to take your team coordination to t
 
 **Getting organized has never been easier.**
 
+Open the docs for more information :point_down:
+https://next-level-italia.github.io/Team-tasks-manager-docs/
+
 *Team Task Manager is developed by the software house Next Level Italia S.A.S.*
