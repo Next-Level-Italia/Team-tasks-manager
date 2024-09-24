@@ -1,7 +1,11 @@
-site_name: Team Tasks Manager docs
+site_name: Team Tasks Manager
 theme:
+  logo: assets/nextlevel-icon.png
+  font:
+    text: Montserrat
   name: material
   features:
+    - header.autohide
     - navigation.tabs
     - navigation.sections
     - toc.integrate
@@ -17,14 +21,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
+      primary: light blue
+      accent: light blue 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
-      accent: lime
+      primary: light blue
+      accent: light blue
 
 extra:
   social:
@@ -34,6 +38,7 @@ extra:
       link: https://www.linkedin.com/company/nextlevelitalia/
 
 markdown_extensions:
+  - tables
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -50,5 +55,6 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
       
+site_description: Team Tasks Manager is the checklist designed to take your team coordination to the next level!
 copyright: |
   &copy; 2024 <a href="https://www.linkedin.com/company/nextlevelitalia"  target="_blank" rel="noopener">Next Level Italia S.A.S.</a>
