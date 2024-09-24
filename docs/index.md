@@ -30,7 +30,7 @@ Here are some of the features we are working on:
 :material-progress-helper: dashboard that summarizes the progress of all the lists  
 :material-progress-helper: and much more..
 
-You just have to bring it to your server and try it!
+***All you have to do is invite the app and try it out!***
 
 ## Names convention
 
