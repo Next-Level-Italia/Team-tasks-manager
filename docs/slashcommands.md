@@ -5,6 +5,9 @@ The following section explains how to execute the commands, if you are familiar 
 
 ## How to execute slash commands
 
+![name](../assets/lhtcmd1.png#only-light){ align=left }
+![name](../assets/dhtcmd1.png#only-dark){ align=left }
+
 The quickest and easiest way to start a slash command is to type, in the space dedicated to writing, the / (slash).
 
 ***WORK IN PROGRESS...***
