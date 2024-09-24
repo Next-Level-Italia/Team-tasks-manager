@@ -27,8 +27,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: light blue
-      accent: light blue
+      primary: blue
+      accent: blue
 
 extra:
   social:
@@ -50,6 +50,10 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.tilde
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
