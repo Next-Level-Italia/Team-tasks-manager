@@ -51,7 +51,7 @@ We also favor the use of widely known icons to put users immediately at ease.
 **We are Next Level Italia S.A.S., an Italian startup that works mainly in the advertising sector.**  
 We take care of creating branded corporate clothing for our customers, business gifts and also take care of the online side for them, managing the marketing and possibly the websites.  
 
-**How did we end up making discord bots?**  
+**How did we end up making discord apps?**  
 We love discord, not only because it allows us to work great but also to create an amazing community directly with our customers.
 However, as the work increased, the platform alone began to not be enough for us and we decided to invest in the creation of an app that would allow us to bring
 our productivity even higher... and so **Team Tasks Manager** was born.  

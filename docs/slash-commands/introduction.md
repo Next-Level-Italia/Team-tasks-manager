@@ -1,13 +1,16 @@
-# Slash Commands
+# Introduction
 
-Currently the app has only two commands: /create-list and /help. 
 The following section explains how to execute the commands, if you are familiar with this you can skip and go directly to /create-list.
 
 ## How to execute slash commands
 
-There are two main ways to activate slash commands, I'll show you both below.
-In the case of TTM the commands do not require input, so it will be sufficient to start them.
+There are two main ways to activate slash commands, I'll show you both below.  
 
+{==
+
+Team Tasks Manager commands do not require input, so one click is enough to use them.
+
+==}
 
 ### Type /
 
@@ -44,4 +47,6 @@ what you need to do is:
 
 !!! tip
 
-    Again, once you've done the first step, discord will suggest the most used apps. Search for the TTM app in this section before searching for it.
+    Again, once you've done the first step, discord will suggest the most used apps. Search for the Team Tasks Manager app in this section before searching for it.
+
+

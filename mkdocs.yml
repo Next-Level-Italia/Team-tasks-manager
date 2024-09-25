@@ -62,7 +62,13 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true    
-      
+
 site_description: Team Tasks Manager is the checklist designed to take your team coordination to the next level!
 copyright: |
   &copy; 2024 <a href="https://www.linkedin.com/company/nextlevelitalia"  target="_blank" rel="noopener">Next Level Italia S.A.S.</a>
+
+nav:
+  - Overview: index.md
+  - Slash commands: 
+    - Introduction: slash-commands/introduction.md
+    - App commands: slash-commands/app-commands.md
