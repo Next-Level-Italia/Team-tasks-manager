@@ -33,6 +33,7 @@ If there are many apps on the server, we recommend typing at least part of the c
 
 The second way is to click on app launcher icon ![name](../assets/how-to/appLauncher.png){ width="18" }
 
+![name](../assets/how-to/lhtcmd2.png#only-light){ align="left"; width="360" }
 ![name](../assets/how-to/dhtcmd2.png#only-dark){ align="left"; width="360" }
 
 what you need to do is:
