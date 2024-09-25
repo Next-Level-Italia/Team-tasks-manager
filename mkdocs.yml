@@ -1,5 +1,6 @@
 site_name: Team Tasks Manager
 theme:
+  favicon: assets/images/favicon.ico
   logo: assets/nextlevel-icon.png
   font:
     text: Montserrat
@@ -56,8 +57,11 @@ markdown_extensions:
   - pymdownx.tilde
   - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true    
       
 site_description: Team Tasks Manager is the checklist designed to take your team coordination to the next level!
 copyright: |
